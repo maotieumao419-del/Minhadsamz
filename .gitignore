@@ -1,6 +1,3 @@
-# Bỏ qua code của phase 1 và phase bổ sung (do chứa URL và API nhạy cảm)
-phase1/code/
-phase_bo_sung/code/
 
 # Bỏ qua các thư mục dữ liệu đầu vào / đầu ra
 */input/
