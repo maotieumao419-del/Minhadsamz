@@ -1,0 +1,19 @@
+# Bỏ qua code của phase 1 và phase bổ sung (do chứa URL và API nhạy cảm)
+phase1/code/
+phase_bo_sung/code/
+
+# Bỏ qua các thư mục dữ liệu đầu vào / đầu ra
+*/input/
+*/output/
+
+# Bỏ qua các file môi trường, cache của Python
+__pycache__/
+*.pyc
+.env
+.venv
+venv/
+
+# Bỏ qua các file excel, json dữ liệu chung (nếu có ở thư mục gốc)
+*.xlsx
+*.csv
+# *.json # (nếu bạn có cấu hình json cần push thì mở comment dòng này)
