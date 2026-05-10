@@ -6,8 +6,8 @@
         "mature_phase": { "max_cpc": 1.50, "min_cpc": 0.30, "target_acos": 0.30 },
         "dormant_phase": { "max_cpc": 1.00, "min_cpc": 0.20, "target_acos": 0.25 },
         "pre_season": { "max_cpc": 2.00, "min_cpc": 0.50, "target_acos": 0.35 },
-        "peak_season": { "max_cpc": 3.00, "min_cpc": 0.80, "target_acos": 0.45 },
-        "post_season": { "max_cpc": 1.00, "min_cpc": 0.20, "target_acos": 0.20 }
+        "peak_season": { "max_cpc": 2.20, "min_cpc": 0.80, "target_acos": 0.45 },
+        "post_season": { "max_cpc": 0.20, "min_cpc": 0.10, "target_acos": 0.20 }
     },
     "rules": [
         {
@@ -18,7 +18,7 @@
                 "orders_max": 0
             },
             "phase_overrides": {
-                "peak_season": { "clicks_min": 12 },
+                "peak_season": { "clicks_min": 9 },
                 "post_season": { "clicks_min": 10 },
                 "launch_phase": { "clicks_min": 20 }
             },
@@ -31,7 +31,10 @@
                 "clicks_min": 25,
                 "orders_max": 1
             },
-            "phase_overrides": {},
+            "phase_overrides": {
+                "pre_season": { "clicks_min": 35 },
+                "peak_season": { "clicks_min": 20 }
+            },
             "action_type": "Decrease_Bid_Percentage",
             "action_value": 0.30
         },

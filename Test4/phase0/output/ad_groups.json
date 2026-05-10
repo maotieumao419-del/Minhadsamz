@@ -1,100 +1,9 @@
 [
     {
-        "Campaign ID": "15320847523005",
-        "Ad Group ID": "28855250125576",
-        "Ad Group Name": "Ad Group - 4/15/2026 21:39:36.473",
-        "Ad Group Default Bid": 0.23,
-        "State": "enabled"
-    },
-    {
         "Campaign ID": "411204123908773",
         "Ad Group ID": "436899384488101",
         "Ad Group Name": "Ad Group - 9/24/2025 15:55:49.051",
         "Ad Group Default Bid": 0.33,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "509167909088348",
-        "Ad Group ID": "489344821416563",
-        "Ad Group Name": "Ad Group - 5/27/2025 09:30:19.129",
-        "Ad Group Default Bid": 0.37,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "153498265163657",
-        "Ad Group ID": "477685193475462",
-        "Ad Group Name": "Ad Group - 4/17/2026 17:38:50.622",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "333301415391992",
-        "Ad Group ID": "320743512868464",
-        "Ad Group Name": "Ad group - 1/21/2025 23:55:29.511",
-        "Ad Group Default Bid": 0.3,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "18804514709447",
-        "Ad Group ID": "139826282682931",
-        "Ad Group Name": "Ad Group - 4/13/2026 16:13:36.933",
-        "Ad Group Default Bid": 0.27,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "101457720169436",
-        "Ad Group ID": "67654037339008",
-        "Ad Group Name": "Ad Group - 4/8/2026 15:53:26.918",
-        "Ad Group Default Bid": 0.32,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "103922243385411",
-        "Ad Group ID": "529865710389901",
-        "Ad Group Name": "Ad Group - 4/8/2026 15:23:38.394",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "204928785989288",
-        "Ad Group ID": "265873181137051",
-        "Ad Group Name": "Ad Group - 4/6/2026 10:21:36.410",
-        "Ad Group Default Bid": 0.32,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "114746411176067",
-        "Ad Group ID": "180726243239967",
-        "Ad Group Name": "Ad Group - 4/13/2026 16:40:16.392",
-        "Ad Group Default Bid": 0.56,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "416884367631893",
-        "Ad Group ID": "480163151497477",
-        "Ad Group Name": "Ad Group - 5/27/2025 16:56:57.521",
-        "Ad Group Default Bid": 0.37,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "467511456335912",
-        "Ad Group ID": "334825210021663",
-        "Ad Group Name": "Ad Group - 6/10/2025 23:59:25.487",
-        "Ad Group Default Bid": 0.31,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "339938482023362",
-        "Ad Group ID": "304081742558549",
-        "Ad Group Name": "Ad Group - 7/1/2025 15:34:47.950",
-        "Ad Group Default Bid": 0.4,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "539080169787307",
-        "Ad Group ID": "542474948235172",
-        "Ad Group Name": "Ad Group - 11/11/2025 15:58:15.638",
-        "Ad Group Default Bid": 0.32,
         "State": "enabled"
     },
     {
@@ -105,10 +14,31 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "19079716018829",
-        "Ad Group ID": "23010832027066",
-        "Ad Group Name": "Ad Group - 4/8/2026 15:27:19.640",
-        "Ad Group Default Bid": 0.6,
+        "Campaign ID": "103922243385411",
+        "Ad Group ID": "529865710389901",
+        "Ad Group Name": "Ad Group - 4/8/2026 15:23:38.394",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "18804514709447",
+        "Ad Group ID": "139826282682931",
+        "Ad Group Name": "Ad Group - 4/13/2026 16:13:36.933",
+        "Ad Group Default Bid": 0.27,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "416884367631893",
+        "Ad Group ID": "480163151497477",
+        "Ad Group Name": "Ad Group - 5/27/2025 16:56:57.521",
+        "Ad Group Default Bid": 0.37,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "15320847523005",
+        "Ad Group ID": "28855250125576",
+        "Ad Group Name": "Ad Group - 4/15/2026 21:39:36.473",
+        "Ad Group Default Bid": 0.23,
         "State": "enabled"
     },
     {
@@ -119,31 +49,38 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "107006436066150",
-        "Ad Group ID": "29469800202902",
-        "Ad Group Name": "high school graduation card",
+        "Campaign ID": "134341190094978",
+        "Ad Group ID": "151935249835043",
+        "Ad Group Name": "mother day gifts for mom",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "446235152842630",
-        "Ad Group ID": "351185757134661",
-        "Ad Group Name": "Ad Group - 10/16/2025 10:28:47.559",
-        "Ad Group Default Bid": 0.5,
+        "Campaign ID": "509167909088348",
+        "Ad Group ID": "489344821416563",
+        "Ad Group Name": "Ad Group - 5/27/2025 09:30:19.129",
+        "Ad Group Default Bid": 0.37,
         "State": "enabled"
     },
     {
-        "Campaign ID": "70133520878325",
-        "Ad Group ID": "558083542886254",
-        "Ad Group Name": "Ad Group - 2/23/2026 14:33:11.713",
-        "Ad Group Default Bid": 0.24,
+        "Campaign ID": "101457720169436",
+        "Ad Group ID": "67654037339008",
+        "Ad Group Name": "Ad Group - 4/8/2026 15:53:26.918",
+        "Ad Group Default Bid": 0.32,
         "State": "enabled"
     },
     {
-        "Campaign ID": "246817168461255",
-        "Ad Group ID": "258106373531345",
-        "Ad Group Name": "Ad Group - 4/13/2026 16:38:15.834",
-        "Ad Group Default Bid": 0.17,
+        "Campaign ID": "467511456335912",
+        "Ad Group ID": "334825210021663",
+        "Ad Group Name": "Ad Group - 6/10/2025 23:59:25.487",
+        "Ad Group Default Bid": 0.31,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "19079716018829",
+        "Ad Group ID": "23010832027066",
+        "Ad Group Name": "Ad Group - 4/8/2026 15:27:19.640",
+        "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
@@ -161,9 +98,16 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "20186235839820",
-        "Ad Group ID": "15229224006950",
-        "Ad Group Name": "graduation cards 2026",
+        "Campaign ID": "70133520878325",
+        "Ad Group ID": "558083542886254",
+        "Ad Group Name": "Ad Group - 2/23/2026 14:33:11.713",
+        "Ad Group Default Bid": 0.24,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "23847411960700",
+        "Ad Group ID": "138472585826979",
+        "Ad Group Name": "diy gifts for mom",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
@@ -175,174 +119,6 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "249061599580458",
-        "Ad Group ID": "184694459229241",
-        "Ad Group Name": "graduation cards 2026",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "298933928507080",
-        "Ad Group ID": "504240121680067",
-        "Ad Group Name": "Ad Group - 12/12/2025 14:28:39.707",
-        "Ad Group Default Bid": 0.27,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "4783720740971",
-        "Ad Group ID": "530003647618950",
-        "Ad Group Name": "Ad Group - 3/19/2026 15:12:42.679",
-        "Ad Group Default Bid": 0.32,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "70228925456690",
-        "Ad Group ID": "61460853507768",
-        "Ad Group Name": "2026 grad",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "33501284295054",
-        "Ad Group ID": "202776719293015",
-        "Ad Group Name": "Ad Group - 4/8/2026 15:10:29.833",
-        "Ad Group Default Bid": 0.28,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "542253686114028",
-        "Ad Group ID": "557874912310632",
-        "Ad Group Name": "Ad Group - 10/22/2025 16:00:37.284",
-        "Ad Group Default Bid": 0.66,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "267867587257380",
-        "Ad Group ID": "6182839224709",
-        "Ad Group Name": "Reward Jar",
-        "Ad Group Default Bid": 0.68,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "3366903690890",
-        "Ad Group ID": "130353846432694",
-        "Ad Group Name": "high school graduation card",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "168082922374061",
-        "Ad Group ID": "32453883921814",
-        "Ad Group Name": "graduation cards 2026",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "277572323933591",
-        "Ad Group ID": "532859548771638",
-        "Ad Group Name": "Ad Group - 3/6/2026 17:12:23.135",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "13197844970426",
-        "Ad Group ID": "231831965966337",
-        "Ad Group Name": "graduation gifts",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "168138928609874",
-        "Ad Group ID": "463887877106885",
-        "Ad Group Name": "Ad Group - 3/4/2026 14:52:26.519",
-        "Ad Group Default Bid": 0.27,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "159421072445549",
-        "Ad Group ID": "135726579351972",
-        "Ad Group Name": "graduation gifts",
-        "Ad Group Default Bid": 0.3,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "22345239079282",
-        "Ad Group ID": "165522024133488",
-        "Ad Group Name": "graduation gifts for him",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "363616562582904",
-        "Ad Group ID": "466256304300230",
-        "Ad Group Name": "Ad Group - 10/22/2025 16:02:47.176",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "414638507863400",
-        "Ad Group ID": "406085522427084",
-        "Ad Group Name": "Ad Group - 10/16/2025 11:19:18.555",
-        "Ad Group Default Bid": 0.4,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "243773457718017",
-        "Ad Group ID": "13262553197114",
-        "Ad Group Name": "Ad Group - 4/6/2026 15:16:50.793",
-        "Ad Group Default Bid": 0.32,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "71468019233769",
-        "Ad Group ID": "224157341759214",
-        "Ad Group Name": "mothers day",
-        "Ad Group Default Bid": 0.5,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "137758697434473",
-        "Ad Group ID": "118714679589333",
-        "Ad Group Name": "Ad Group - 4/13/2026 16:09:16.980",
-        "Ad Group Default Bid": 0.27,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "172832306344661",
-        "Ad Group ID": "446093478664101",
-        "Ad Group Name": "Ad Group - 3/23/2026 17:33:15.415",
-        "Ad Group Default Bid": 0.75,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "37320963659964",
-        "Ad Group ID": "177539080389405",
-        "Ad Group Name": "Ad Group - 4/14/2026 15:26:18.698",
-        "Ad Group Default Bid": 0.32,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "234698262699671",
-        "Ad Group ID": "196828867617593",
-        "Ad Group Name": "Ad Group - 4/13/2026 16:24:40.159",
-        "Ad Group Default Bid": 0.29,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "451562690927642",
-        "Ad Group ID": "520356790177960",
-        "Ad Group Name": "Ad Group - 8/6/2025 22:08:51.792",
-        "Ad Group Default Bid": 0.5,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "267986078801557",
-        "Ad Group ID": "17436950540315",
-        "Ad Group Name": "graduation gifts",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
         "Campaign ID": "156525970399242",
         "Ad Group ID": "294364652768396",
         "Ad Group Name": "Ad Group - 3/23/2026 15:08:19.779",
@@ -350,10 +126,31 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "210675400470301",
-        "Ad Group ID": "20173028275241",
-        "Ad Group Name": "Reward Jar",
-        "Ad Group Default Bid": 0.55,
+        "Campaign ID": "539080169787307",
+        "Ad Group ID": "542474948235172",
+        "Ad Group Name": "Ad Group - 11/11/2025 15:58:15.638",
+        "Ad Group Default Bid": 0.32,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "339938482023362",
+        "Ad Group ID": "304081742558549",
+        "Ad Group Name": "Ad Group - 7/1/2025 15:34:47.950",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "446235152842630",
+        "Ad Group ID": "351185757134661",
+        "Ad Group Name": "Ad Group - 10/16/2025 10:28:47.559",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "199689232027783",
+        "Ad Group ID": "45152983211614",
+        "Ad Group Name": "badge reel",
+        "Ad Group Default Bid": 0.4,
         "State": "enabled"
     },
     {
@@ -364,72 +161,156 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "21385875214326",
-        "Ad Group ID": "120792310391164",
-        "Ad Group Name": "graduation gifts for him",
+        "Campaign ID": "244692446649887",
+        "Ad Group ID": "42781067833493",
+        "Ad Group Name": "reward jars for kids",
+        "Ad Group Default Bid": 0.68,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "204928785989288",
+        "Ad Group ID": "265873181137051",
+        "Ad Group Name": "Ad Group - 4/6/2026 10:21:36.410",
+        "Ad Group Default Bid": 0.32,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "20186235839820",
+        "Ad Group ID": "15229224006950",
+        "Ad Group Name": "graduation cards 2026",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "127331248015630",
-        "Ad Group ID": "349293955413881",
-        "Ad Group Name": "Ad Group - 3/19/2026 15:30:26.294",
-        "Ad Group Default Bid": 0.32,
+        "Campaign ID": "81512929887612",
+        "Ad Group ID": "206354328991077",
+        "Ad Group Name": "gifts for mom",
+        "Ad Group Default Bid": 0.35,
         "State": "enabled"
     },
     {
-        "Campaign ID": "226760914925378",
-        "Ad Group ID": "24484884289062",
-        "Ad Group Name": "Ad Group - 4/6/2026 15:09:52.074",
-        "Ad Group Default Bid": 0.32,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "125334760466223",
-        "Ad Group ID": "39848495036561",
-        "Ad Group Name": "2026 grad",
+        "Campaign ID": "8190076826977",
+        "Ad Group ID": "47255036087330",
+        "Ad Group Name": "Bible Verse Jar for Mom",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "171946327257201",
-        "Ad Group ID": "7408549026628",
-        "Ad Group Name": "mothers day",
-        "Ad Group Default Bid": 0.5,
+        "Campaign ID": "104737899378477",
+        "Ad Group ID": "108920315314594",
+        "Ad Group Name": "birthday gift for mom",
+        "Ad Group Default Bid": 0.35,
         "State": "enabled"
     },
     {
-        "Campaign ID": "67234181801137",
-        "Ad Group ID": "369693858460845",
-        "Ad Group Name": "Ad Group - 3/13/2026 17:24:28.358",
+        "Campaign ID": "243773457718017",
+        "Ad Group ID": "13262553197114",
+        "Ad Group Name": "Ad Group - 4/6/2026 15:16:50.793",
         "Ad Group Default Bid": 0.32,
         "State": "enabled"
     },
     {
-        "Campaign ID": "359161948283381",
-        "Ad Group ID": "546124836275744",
-        "Ad Group Name": "Ad Group - 8/7/2025 10:37:30.633",
+        "Campaign ID": "272373890193982",
+        "Ad Group ID": "128224537412299",
+        "Ad Group Name": "diy love notes",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "228629864519916",
+        "Ad Group ID": "545567131600178",
+        "Ad Group Name": "Ad Group - 4/13/2026 10:04:45.742",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "137758697434473",
+        "Ad Group ID": "118714679589333",
+        "Ad Group Name": "Ad Group - 4/13/2026 16:09:16.980",
+        "Ad Group Default Bid": 0.27,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "280407939132095",
+        "Ad Group ID": "244315430046510",
+        "Ad Group Name": "250 anniversary usa merchandise",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "333301415391992",
+        "Ad Group ID": "320743512868464",
+        "Ad Group Name": "Ad group - 1/21/2025 23:55:29.511",
         "Ad Group Default Bid": 0.3,
         "State": "enabled"
     },
     {
-        "Campaign ID": "397484768629696",
-        "Ad Group ID": "337444339991544",
-        "Ad Group Name": "Ad Group - 11/13/2025 19:49:41.960",
+        "Campaign ID": "267867587257380",
+        "Ad Group ID": "6182839224709",
+        "Ad Group Name": "Reward Jar",
+        "Ad Group Default Bid": 0.68,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "142577629046664",
+        "Ad Group ID": "162751958619461",
+        "Ad Group Name": "diy gifts for mom",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "338794778828097",
-        "Ad Group ID": "374042615930108",
-        "Ad Group Name": "Ad Group - 10/28/2025 11:02:40.543",
-        "Ad Group Default Bid": 0.2,
+        "Campaign ID": "234698262699671",
+        "Ad Group ID": "196828867617593",
+        "Ad Group Name": "Ad Group - 4/13/2026 16:24:40.159",
+        "Ad Group Default Bid": 0.29,
         "State": "enabled"
     },
     {
-        "Campaign ID": "190424186700538",
-        "Ad Group ID": "94983356629245",
-        "Ad Group Name": "2026 graduation gifts",
+        "Campaign ID": "168138928609874",
+        "Ad Group ID": "463887877106885",
+        "Ad Group Name": "Ad Group - 3/4/2026 14:52:26.519",
+        "Ad Group Default Bid": 0.27,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "131690676326426",
+        "Ad Group ID": "181870207382817",
+        "Ad Group Name": "Ad Group - 4/13/2026 16:34:32.542",
+        "Ad Group Default Bid": 0.36,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "542253686114028",
+        "Ad Group ID": "557874912310632",
+        "Ad Group Name": "Ad Group - 10/22/2025 16:00:37.284",
+        "Ad Group Default Bid": 0.66,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "150794778241012",
+        "Ad Group ID": "4139909098300",
+        "Ad Group Name": "mothers day gifts for mom",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "28819738885659",
+        "Ad Group ID": "37902527494368",
+        "Ad Group Name": "reward jar for kid",
+        "Ad Group Default Bid": 0.68,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "114746411176067",
+        "Ad Group ID": "180726243239967",
+        "Ad Group Name": "Ad Group - 4/13/2026 16:40:16.392",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "150758500758861",
+        "Ad Group ID": "114582220706801",
+        "Ad Group Name": "mom birthday gifts",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
@@ -441,241 +322,45 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "309387947783325",
-        "Ad Group ID": "346264507934913",
-        "Ad Group Name": "Ad Group - 10/1/2025 17:33:10.736",
-        "Ad Group Default Bid": 0.55,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "278598245503539",
-        "Ad Group ID": "66841467728419",
-        "Ad Group Name": "Ad group - 4/3/2026 11:24:21.796",
-        "Ad Group Default Bid": 0.65,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "131690676326426",
-        "Ad Group ID": "181870207382817",
-        "Ad Group Name": "Ad Group - 4/13/2026 16:34:32.542",
-        "Ad Group Default Bid": 0.36,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "449633068218016",
-        "Ad Group ID": "282852067797009",
-        "Ad Group Name": "Ad Group - 10/8/2025 17:23:52.500",
+        "Campaign ID": "47703836111827",
+        "Ad Group ID": "145398886836211",
+        "Ad Group Name": "mom to be gifts",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "531377236247772",
-        "Ad Group ID": "346859260532970",
-        "Ad Group Name": "Ad Group - 11/11/2025 16:22:34.945",
-        "Ad Group Default Bid": 0.4,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "439785530654406",
-        "Ad Group ID": "343618383549046",
-        "Ad Group Name": "Ad group - 2/8/2025 10:28:21.807",
-        "Ad Group Default Bid": 0.33,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "28819738885659",
-        "Ad Group ID": "37902527494368",
-        "Ad Group Name": "reward jar for kid",
-        "Ad Group Default Bid": 0.68,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "210742534315910",
-        "Ad Group ID": "149404351592145",
-        "Ad Group Name": "mothers day gift",
+        "Campaign ID": "223021409563116",
+        "Ad Group ID": "24989387346207",
+        "Ad Group Name": "mom to be gifts",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "36434543367146",
-        "Ad Group ID": "181200580709679",
-        "Ad Group Name": "high school graduation card",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "239355830991492",
-        "Ad Group ID": "478611281355013",
-        "Ad Group Name": "Ad Group - 3/19/2026 15:31:35.658",
-        "Ad Group Default Bid": 0.32,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "378507844506801",
-        "Ad Group ID": "482983199045924",
-        "Ad Group Name": "Ad Group - 8/12/2025 08:47:16.389",
-        "Ad Group Default Bid": 0.67,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "381704415124633",
-        "Ad Group ID": "505933403900512",
-        "Ad Group Name": "Ad Group - 8/4/2025 10:55:27.124",
-        "Ad Group Default Bid": 0.8,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "273952311947876",
-        "Ad Group ID": "420530897246437",
-        "Ad Group Name": "Ad Group - 4/8/2026 15:51:15.230",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "159913530791208",
-        "Ad Group ID": "418347992331053",
-        "Ad Group Name": "Ad Group - 1/15/2026 10:31:41.654",
-        "Ad Group Default Bid": 0.33,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "218544525078347",
-        "Ad Group ID": "473956770808612",
-        "Ad Group Name": "Ad Group - 3/19/2026 21:42:28.046",
+        "Campaign ID": "153218951479460",
+        "Ad Group ID": "90678484188585",
+        "Ad Group Name": "Ad Group - 4/24/2026 10:17:28.055",
         "Ad Group Default Bid": 0.75,
         "State": "enabled"
     },
     {
-        "Campaign ID": "244692446649887",
-        "Ad Group ID": "42781067833493",
-        "Ad Group Name": "reward jars for kids",
-        "Ad Group Default Bid": 0.68,
+        "Campaign ID": "88994097591888",
+        "Ad Group ID": "13920472299240",
+        "Ad Group Name": "dad hat",
+        "Ad Group Default Bid": 0.7,
         "State": "enabled"
     },
     {
-        "Campaign ID": "91133975042859",
-        "Ad Group ID": "43575083086385",
-        "Ad Group Name": "250 anniversary usa merchandise",
+        "Campaign ID": "187954958887254",
+        "Ad Group ID": "233926440377966",
+        "Ad Group Name": "mom gifts",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "20306994269312",
-        "Ad Group ID": "60752336878554",
-        "Ad Group Name": "Ad Group - 4/8/2026 15:05:01.002",
-        "Ad Group Default Bid": 0.3,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "70475909009076",
-        "Ad Group ID": "75890650320682",
-        "Ad Group Name": "reward jar kid",
-        "Ad Group Default Bid": 0.68,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "339210430187706",
-        "Ad Group ID": "414628418247711",
-        "Ad Group Name": "VISOR_SP_KW_AMZ_BR_030625",
+        "Campaign ID": "248163061594951",
+        "Ad Group ID": "129742462552611",
+        "Ad Group Name": "mom birthday gifts",
         "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "274805895989851",
-        "Ad Group ID": "294681714645506",
-        "Ad Group Name": "Ad Group - 3/18/2026 17:01:09.716",
-        "Ad Group Default Bid": 0.27,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "80326000886920",
-        "Ad Group ID": "86250715631348",
-        "Ad Group Name": "patriotic decor",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "316778234743995",
-        "Ad Group ID": "487863915133371",
-        "Ad Group Name": "Ad Group - 7/31/2025 09:14:26.012",
-        "Ad Group Default Bid": 0.3,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "262668880800241",
-        "Ad Group ID": "236927124632240",
-        "Ad Group Name": "gifts for mom",
-        "Ad Group Default Bid": 0.5,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "228629864519916",
-        "Ad Group ID": "545567131600178",
-        "Ad Group Name": "Ad Group - 4/13/2026 10:04:45.742",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "15913691254740",
-        "Ad Group ID": "79349876240300",
-        "Ad Group Name": "graduation gifts 2026",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "516525530117444",
-        "Ad Group ID": "306619012012102",
-        "Ad Group Name": "Ad Group - 11/27/2025 09:22:53.250",
-        "Ad Group Default Bid": 0.39,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "388372107962707",
-        "Ad Group ID": "445828277199597",
-        "Ad Group Name": "20250416-SP-bible jar-01-7-exact",
-        "Ad Group Default Bid": 0.77,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "447695506099927",
-        "Ad Group ID": "514818883408659",
-        "Ad Group Name": "20250416-SP-bile jar-02-5-phrase",
-        "Ad Group Default Bid": 0.77,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "486120490541051",
-        "Ad Group ID": "455262751713932",
-        "Ad Group Name": "Ad Group - 9/16/2025 11:16:00.873",
-        "Ad Group Default Bid": 0.5,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "198585139073412",
-        "Ad Group ID": "352624280557234",
-        "Ad Group Name": "Ad Group - 3/24/2026 14:29:33.128",
-        "Ad Group Default Bid": 0.32,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "11432869578404",
-        "Ad Group ID": "506496782646935",
-        "Ad Group Name": "Ad Group - 3/24/2026 14:32:27.967",
-        "Ad Group Default Bid": 0.32,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "464117723979993",
-        "Ad Group ID": "389856022974816",
-        "Ad Group Name": "Ad Group - 11/13/2025 17:20:56.792",
-        "Ad Group Default Bid": 0.4,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "41165922247537",
-        "Ad Group ID": "459299029902969",
-        "Ad Group Name": "Ad Group - 4/8/2026 15:20:49.449",
-        "Ad Group Default Bid": 0.35,
         "State": "enabled"
     },
     {
@@ -686,79 +371,9 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "265362867300565",
-        "Ad Group ID": "169387361703994",
-        "Ad Group Name": "classroom management tools",
-        "Ad Group Default Bid": 0.55,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "82906398604550",
-        "Ad Group ID": "164373829238720",
-        "Ad Group Name": "graduation gifts 2026",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "316341882102344",
-        "Ad Group ID": "442640357999297",
-        "Ad Group Name": "Ad Group - 6/13/2025 15:32:46.108",
-        "Ad Group Default Bid": 0.8,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "420654998896034",
-        "Ad Group ID": "353386388827111",
-        "Ad Group Name": "Ad Group - 1/9/2026 17:31:46.559",
-        "Ad Group Default Bid": 0.29,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "201303735242411",
-        "Ad Group ID": "55321031723462",
-        "Ad Group Name": "mothers day",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "55071861783464",
-        "Ad Group ID": "318501541328100",
-        "Ad Group Name": "Ad Group - 2/24/2026 14:21:28.973",
-        "Ad Group Default Bid": 0.23,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "426770720979446",
-        "Ad Group ID": "359828833455326",
-        "Ad Group Name": "Ad Group - 4/5/2025 21:46:34.095",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "504850717249400",
-        "Ad Group ID": "478179870437867",
-        "Ad Group Name": "Ad Group - 8/4/2025 10:57:14.179",
-        "Ad Group Default Bid": 0.9,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "87061156829092",
-        "Ad Group ID": "31774131863945",
-        "Ad Group Name": "250 anniversary usa merchandise",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "346054090283227",
-        "Ad Group ID": "466797637317028",
-        "Ad Group Name": "Ad Group - 5/26/2025 17:20:43.112",
-        "Ad Group Default Bid": 0.3,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "102683071616565",
-        "Ad Group ID": "15945731821159",
-        "Ad Group Name": "class of 2026 gifts",
+        "Campaign ID": "277572323933591",
+        "Ad Group ID": "532859548771638",
+        "Ad Group Name": "Ad Group - 3/6/2026 17:12:23.135",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
@@ -770,52 +385,227 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "267823464679631",
-        "Ad Group ID": "18406459271906",
-        "Ad Group Name": "mothers day gifts for mom",
+        "Campaign ID": "87061156829092",
+        "Ad Group ID": "31774131863945",
+        "Ad Group Name": "250 anniversary usa merchandise",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "522765238183558",
-        "Ad Group ID": "423186765203419",
-        "Ad Group Name": "Ad Group - 8/4/2025 11:02:25.068",
-        "Ad Group Default Bid": 0.8,
+        "Campaign ID": "106357377769948",
+        "Ad Group ID": "231325686676258",
+        "Ad Group Name": "birthday gift for mom",
+        "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "2462304319899",
-        "Ad Group ID": "299329265709116",
-        "Ad Group Name": "Ad Group - 3/20/2026 15:18:00.171",
+        "Campaign ID": "482617786855285",
+        "Ad Group ID": "527293526935129",
+        "Ad Group Name": "Ad Group - 11/11/2025 16:05:42.362",
         "Ad Group Default Bid": 0.32,
         "State": "enabled"
     },
     {
-        "Campaign ID": "119623156125496",
-        "Ad Group ID": "101580916240757",
-        "Ad Group Name": "reward jar classroom",
-        "Ad Group Default Bid": 0.68,
+        "Campaign ID": "172832306344661",
+        "Ad Group ID": "446093478664101",
+        "Ad Group Name": "Ad Group - 3/23/2026 17:33:15.415",
+        "Ad Group Default Bid": 0.75,
         "State": "enabled"
     },
     {
-        "Campaign ID": "47584519437359",
-        "Ad Group ID": "101244896723137",
-        "Ad Group Name": "2026 graduation gifts",
+        "Campaign ID": "309387947783325",
+        "Ad Group ID": "346264507934913",
+        "Ad Group Name": "Ad Group - 10/1/2025 17:33:10.736",
+        "Ad Group Default Bid": 0.55,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "115003375772224",
+        "Ad Group ID": "57962552661485",
+        "Ad Group Name": "mothers day gifts",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "91049621021462",
+        "Ad Group ID": "62977437668373",
+        "Ad Group Name": "happy mothers day",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "80326000886920",
+        "Ad Group ID": "86250715631348",
+        "Ad Group Name": "patriotic decor",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "166215860668722",
-        "Ad Group ID": "232810688734262",
-        "Ad Group Name": "graduation gifts for him 2026",
+        "Campaign ID": "198585139073412",
+        "Ad Group ID": "352624280557234",
+        "Ad Group Name": "Ad Group - 3/24/2026 14:29:33.128",
+        "Ad Group Default Bid": 0.32,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "9833857368299",
+        "Ad Group ID": "159476292672307",
+        "Ad Group Name": "mom to be gifts",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "481142619889748",
-        "Ad Group ID": "473922914911504",
-        "Ad Group Name": "Ad Group - 10/28/2025 11:42:07.960",
+        "Campaign ID": "96196514056413",
+        "Ad Group ID": "49154849452691",
+        "Ad Group Name": "birthday gift for mom",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "469020502286655",
+        "Ad Group ID": "448247015143933",
+        "Ad Group Name": "Ad Group - 11/11/2025 15:44:15.346",
+        "Ad Group Default Bid": 0.32,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "37320963659964",
+        "Ad Group ID": "177539080389405",
+        "Ad Group Name": "Ad Group - 4/14/2026 15:26:18.698",
+        "Ad Group Default Bid": 0.32,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "33501284295054",
+        "Ad Group ID": "202776719293015",
+        "Ad Group Name": "Ad Group - 4/8/2026 15:10:29.833",
         "Ad Group Default Bid": 0.28,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "267986078801557",
+        "Ad Group ID": "17436950540315",
+        "Ad Group Name": "graduation gifts",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "165152700798123",
+        "Ad Group ID": "247833252075271",
+        "Ad Group Name": "mothers day gift",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "246817168461255",
+        "Ad Group ID": "258106373531345",
+        "Ad Group Name": "Ad Group - 4/13/2026 16:38:15.834",
+        "Ad Group Default Bid": 0.17,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "411868851262641",
+        "Ad Group ID": "301824689524332",
+        "Ad Group Name": "Ad Group - 10/16/2025 17:13:24.525",
+        "Ad Group Default Bid": 0.45,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "124279442386651",
+        "Ad Group ID": "108177278885560",
+        "Ad Group Name": "mother day gifts for mom",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "278598245503539",
+        "Ad Group ID": "66841467728419",
+        "Ad Group Name": "Ad group - 4/3/2026 11:24:21.796",
+        "Ad Group Default Bid": 0.65,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "414638507863400",
+        "Ad Group ID": "406085522427084",
+        "Ad Group Name": "Ad Group - 10/16/2025 11:19:18.555",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "226760914925378",
+        "Ad Group ID": "24484884289062",
+        "Ad Group Name": "Ad Group - 4/6/2026 15:09:52.074",
+        "Ad Group Default Bid": 0.32,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "9909798075477",
+        "Ad Group ID": "131568824368811",
+        "Ad Group Name": "mom birthday gifts",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "210675400470301",
+        "Ad Group ID": "20173028275241",
+        "Ad Group Name": "Reward Jar",
+        "Ad Group Default Bid": 0.55,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "74092496308146",
+        "Ad Group ID": "39577099041679",
+        "Ad Group Name": "birthday gifts for mom",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "280906105030003",
+        "Ad Group ID": "16531009583503",
+        "Ad Group Name": "dad hat",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "650627898674",
+        "Ad Group ID": "278152873700391",
+        "Ad Group Name": "nurse badge reel",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "254494483349866",
+        "Ad Group ID": "31074696197551",
+        "Ad Group Name": "mothers day",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "22345239079282",
+        "Ad Group ID": "165522024133488",
+        "Ad Group Name": "graduation gifts for him",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "153498265163657",
+        "Ad Group ID": "477685193475462",
+        "Ad Group Name": "Ad Group - 4/17/2026 17:38:50.622",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "381704415124633",
+        "Ad Group ID": "505933403900512",
+        "Ad Group Name": "Ad Group - 8/4/2025 10:55:27.124",
+        "Ad Group Default Bid": 0.8,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "446609263692026",
+        "Ad Group ID": "548427200771533",
+        "Ad Group Name": "ONM_DRAGONFLY_2PCS_KT_0.6_dragonfly gifts,dragonfly ornament",
+        "Ad Group Default Bid": 0.77,
         "State": "enabled"
     },
     {
@@ -826,9 +616,226 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "276096604692498",
-        "Ad Group ID": "35045774670831",
-        "Ad Group Name": "class of 2026 gifts",
+        "Campaign ID": "70475909009076",
+        "Ad Group ID": "75890650320682",
+        "Ad Group Name": "reward jar kid",
+        "Ad Group Default Bid": 0.68,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "504850717249400",
+        "Ad Group ID": "478179870437867",
+        "Ad Group Name": "Ad Group - 8/4/2025 10:57:14.179",
+        "Ad Group Default Bid": 0.9,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "274679941931276",
+        "Ad Group ID": "224210623808188",
+        "Ad Group Name": "mom gift",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "298933928507080",
+        "Ad Group ID": "504240121680067",
+        "Ad Group Name": "Ad Group - 12/12/2025 14:28:39.707",
+        "Ad Group Default Bid": 0.27,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "363616562582904",
+        "Ad Group ID": "466256304300230",
+        "Ad Group Name": "Ad Group - 10/22/2025 16:02:47.176",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "20306994269312",
+        "Ad Group ID": "60752336878554",
+        "Ad Group Name": "Ad Group - 4/8/2026 15:05:01.002",
+        "Ad Group Default Bid": 0.3,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "378507844506801",
+        "Ad Group ID": "482983199045924",
+        "Ad Group Name": "Ad Group - 8/12/2025 08:47:16.389",
+        "Ad Group Default Bid": 0.67,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "68523346932410",
+        "Ad Group ID": "189729125344466",
+        "Ad Group Name": "mom gifts for birthday",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "29535557652481",
+        "Ad Group ID": "236271674741466",
+        "Ad Group Name": "mom birthday gifts",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "110464509812328",
+        "Ad Group ID": "226512857036757",
+        "Ad Group Name": "mothers day gifts for mom",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "227571001466564",
+        "Ad Group ID": "206221524584150",
+        "Ad Group Name": "mom birthday",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "531377236247772",
+        "Ad Group ID": "346859260532970",
+        "Ad Group Name": "Ad Group - 11/11/2025 16:22:34.945",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "221038355005809",
+        "Ad Group ID": "39711652171708",
+        "Ad Group Name": "diy love notes",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "219012865121436",
+        "Ad Group ID": "80927858585050",
+        "Ad Group Name": "patriotic decor",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "273952311947876",
+        "Ad Group ID": "420530897246437",
+        "Ad Group Name": "Ad Group - 4/8/2026 15:51:15.230",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "69630566489385",
+        "Ad Group ID": "189568643562630",
+        "Ad Group Name": "mother day gifts",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "334155394444317",
+        "Ad Group ID": "399087331778409",
+        "Ad Group Name": "Ad Group - 10/27/2025 15:56:12.817",
+        "Ad Group Default Bid": 0.77,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "24479692424512",
+        "Ad Group ID": "185850782189782",
+        "Ad Group Name": "birthday card for mom",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "41165922247537",
+        "Ad Group ID": "459299029902969",
+        "Ad Group Name": "Ad Group - 4/8/2026 15:20:49.449",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "102750198237215",
+        "Ad Group ID": "151451322175187",
+        "Ad Group Name": "Ad Group - 4/13/2026 16:19:56.286",
+        "Ad Group Default Bid": 0.27,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "78594117483115",
+        "Ad Group ID": "147825428302813",
+        "Ad Group Name": "250th anniversary decorations",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "258743576195129",
+        "Ad Group ID": "57779233299073",
+        "Ad Group Name": "Ad Group - 4/24/2026 10:25:45.037",
+        "Ad Group Default Bid": 0.31,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "267823464679631",
+        "Ad Group ID": "18406459271906",
+        "Ad Group Name": "mothers day gifts for mom",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "397484768629696",
+        "Ad Group ID": "337444339991544",
+        "Ad Group Name": "Ad Group - 11/13/2025 19:49:41.960",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "270002149885687",
+        "Ad Group ID": "68544659244760",
+        "Ad Group Name": "mom birthday",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "106124919858296",
+        "Ad Group ID": "259446318840521",
+        "Ad Group Name": "birthday card for mom",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "451562690927642",
+        "Ad Group ID": "520356790177960",
+        "Ad Group Name": "Ad Group - 8/6/2025 22:08:51.792",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "103047653687033",
+        "Ad Group ID": "257107076104274",
+        "Ad Group Name": "happy mothers day",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "359161948283381",
+        "Ad Group ID": "546124836275744",
+        "Ad Group Name": "Ad Group - 8/7/2025 10:37:30.633",
+        "Ad Group Default Bid": 0.3,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "82906398604550",
+        "Ad Group ID": "164373829238720",
+        "Ad Group Name": "graduation gifts 2026",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "114167925911652",
+        "Ad Group ID": "155441438870328",
+        "Ad Group Name": "gifts for mom birthday",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "268720488788328",
+        "Ad Group ID": "42720367289584",
+        "Ad Group Name": "patriotic decorations",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
@@ -840,17 +847,73 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "412614022790323",
-        "Ad Group ID": "480895061265650",
-        "Ad Group Name": "Ad Group - 1/7/2026 16:32:16.594",
-        "Ad Group Default Bid": 0.67,
+        "Campaign ID": "201144177239162",
+        "Ad Group ID": "137491693074767",
+        "Ad Group Name": "happy mothers day",
+        "Ad Group Default Bid": 0.35,
         "State": "enabled"
     },
     {
-        "Campaign ID": "102750198237215",
-        "Ad Group ID": "151451322175187",
-        "Ad Group Name": "Ad Group - 4/13/2026 16:19:56.286",
-        "Ad Group Default Bid": 0.27,
+        "Campaign ID": "40781032212884",
+        "Ad Group ID": "60126348464623",
+        "Ad Group Name": "mom to be gifts",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "539704147583044",
+        "Ad Group ID": "459848816449853",
+        "Ad Group Name": "Ad Group - 11/28/2025 14:40:30.623",
+        "Ad Group Default Bid": 0.33,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "210114125260263",
+        "Ad Group ID": "46923193899520",
+        "Ad Group Name": "mom birthday gifts",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "316778234743995",
+        "Ad Group ID": "487863915133371",
+        "Ad Group Name": "Ad Group - 7/31/2025 09:14:26.012",
+        "Ad Group Default Bid": 0.3,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "190424186700538",
+        "Ad Group ID": "94983356629245",
+        "Ad Group Name": "2026 graduation gifts",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "20999954105478",
+        "Ad Group ID": "53750783373859",
+        "Ad Group Name": "diy love notes",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "449633068218016",
+        "Ad Group ID": "282852067797009",
+        "Ad Group Name": "Ad Group - 10/8/2025 17:23:52.500",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "134954038584301",
+        "Ad Group ID": "279642856803536",
+        "Ad Group Name": "mom gift",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "110386996177358",
+        "Ad Group ID": "107390998072694",
+        "Ad Group Name": "patriotic decor",
+        "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
@@ -861,30 +924,177 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "167411672855244",
-        "Ad Group ID": "530886237671100",
-        "Ad Group Name": "Ad Group - 3/20/2026 15:41:56.690",
-        "Ad Group Default Bid": 0.32,
+        "Campaign ID": "166215860668722",
+        "Ad Group ID": "232810688734262",
+        "Ad Group Name": "graduation gifts for him 2026",
+        "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "402965647100",
-        "Ad Group ID": "268140387554159",
-        "Ad Group Name": "Reward Jar",
+        "Campaign ID": "68702797039409",
+        "Ad Group ID": "138755649849433",
+        "Ad Group Name": "happy mothers day",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "119623156125496",
+        "Ad Group ID": "101580916240757",
+        "Ad Group Name": "reward jar classroom",
+        "Ad Group Default Bid": 0.68,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "218544525078347",
+        "Ad Group ID": "473956770808612",
+        "Ad Group Name": "Ad Group - 3/19/2026 21:42:28.046",
+        "Ad Group Default Bid": 0.75,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "180378182126684",
+        "Ad Group ID": "199464600053138",
+        "Ad Group Name": "nurse badge reel",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "47584519437359",
+        "Ad Group ID": "101244896723137",
+        "Ad Group Name": "2026 graduation gifts",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "49669290106525",
+        "Ad Group ID": "148377889499323",
+        "Ad Group Name": "mom gift",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "147652828116125",
+        "Ad Group ID": "117442706991306",
+        "Ad Group Name": "mom gifts for birthday",
         "Ad Group Default Bid": 0.35,
         "State": "enabled"
     },
     {
-        "Campaign ID": "187409931951571",
-        "Ad Group ID": "156397483565383",
-        "Ad Group Name": "graduation gifts 2026",
+        "Campaign ID": "130976431668565",
+        "Ad Group ID": "176652271667581",
+        "Ad Group Name": "funny gift",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "157835901268668",
+        "Ad Group ID": "11128800148407",
+        "Ad Group Name": "graduation gifts for him 2026",
         "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "338794778828097",
+        "Ad Group ID": "374042615930108",
+        "Ad Group Name": "Ad Group - 10/28/2025 11:02:40.543",
+        "Ad Group Default Bid": 0.2,
         "State": "enabled"
     },
     {
         "Campaign ID": "141516417977253",
         "Ad Group ID": "84720571018554",
         "Ad Group Name": "fourth of july decorations",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "107462087840900",
+        "Ad Group ID": "41952129672058",
+        "Ad Group Name": "gifts for mom birthday",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "135523695333447",
+        "Ad Group ID": "120292498067383",
+        "Ad Group Name": "dad trucker hat",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "388372107962707",
+        "Ad Group ID": "445828277199597",
+        "Ad Group Name": "20250416-SP-bible jar-01-7-exact",
+        "Ad Group Default Bid": 0.77,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "221759590241577",
+        "Ad Group ID": "81394477038454",
+        "Ad Group Name": "mother day gifts for mom",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "20581756241417",
+        "Ad Group ID": "236231352890380",
+        "Ad Group Name": "Ad Group - 4/13/2026 16:16:04.779",
+        "Ad Group Default Bid": 0.27,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "439785530654406",
+        "Ad Group ID": "343618383549046",
+        "Ad Group Name": "Ad group - 2/8/2025 10:28:21.807",
+        "Ad Group Default Bid": 0.33,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "191767696680619",
+        "Ad Group ID": "241539528284085",
+        "Ad Group Name": "250th anniversary decorations",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "41553683995512",
+        "Ad Group ID": "219663094673422",
+        "Ad Group Name": "diy gifts for mom",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "239355830991492",
+        "Ad Group ID": "478611281355013",
+        "Ad Group Name": "Ad Group - 3/19/2026 15:31:35.658",
+        "Ad Group Default Bid": 0.32,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "159913530791208",
+        "Ad Group ID": "418347992331053",
+        "Ad Group Name": "Ad Group - 1/15/2026 10:31:41.654",
+        "Ad Group Default Bid": 0.33,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "163679623727014",
+        "Ad Group ID": "100878225156032",
+        "Ad Group Name": "mens trucker hat",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "339210430187706",
+        "Ad Group ID": "414628418247711",
+        "Ad Group Name": "VISOR_SP_KW_AMZ_BR_030625",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "276096604692498",
+        "Ad Group ID": "35045774670831",
+        "Ad Group Name": "class of 2026 gifts",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
@@ -896,52 +1106,150 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "252290427256729",
-        "Ad Group ID": "419088878733907",
-        "Ad Group Name": "Ad Group - 3/20/2026 15:20:09.216",
+        "Campaign ID": "316341882102344",
+        "Ad Group ID": "442640357999297",
+        "Ad Group Name": "Ad Group - 6/13/2025 15:32:46.108",
+        "Ad Group Default Bid": 0.8,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "114771659516706",
+        "Ad Group ID": "105144236318749",
+        "Ad Group Name": "gifts for mom birthday",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "426770720979446",
+        "Ad Group ID": "359828833455326",
+        "Ad Group Name": "Ad Group - 4/5/2025 21:46:34.095",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "163958414632780",
+        "Ad Group ID": "156573403852288",
+        "Ad Group Name": "gifts for mom birthday",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "447695506099927",
+        "Ad Group ID": "514818883408659",
+        "Ad Group Name": "20250416-SP-bile jar-02-5-phrase",
+        "Ad Group Default Bid": 0.77,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "464117723979993",
+        "Ad Group ID": "389856022974816",
+        "Ad Group Name": "Ad Group - 11/13/2025 17:20:56.792",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "80347856041133",
+        "Ad Group ID": "282561541136341",
+        "Ad Group Name": "Ad Group - 3/23/2026 15:21:44.564",
+        "Ad Group Default Bid": 0.31,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "117900293687306",
+        "Ad Group ID": "190158269449139",
+        "Ad Group Name": "badge reels retractable",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "86213609639560",
+        "Ad Group ID": "98655808394844",
+        "Ad Group Name": "dad jokes",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "206806959196535",
+        "Ad Group ID": "56758355352283",
+        "Ad Group Name": "gifts for mom birthday",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "104339416425082",
+        "Ad Group ID": "150295730882312",
+        "Ad Group Name": "birthday gifts for mom",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "138334381110340",
+        "Ad Group ID": "255251183959257",
+        "Ad Group Name": "dad joke button",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "183461238234219",
+        "Ad Group ID": "167203829378149",
+        "Ad Group Name": "mom to be gifts",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "67234181801137",
+        "Ad Group ID": "369693858460845",
+        "Ad Group Name": "Ad Group - 3/13/2026 17:24:28.358",
         "Ad Group Default Bid": 0.32,
         "State": "enabled"
     },
     {
-        "Campaign ID": "20581756241417",
-        "Ad Group ID": "236231352890380",
-        "Ad Group Name": "Ad Group - 4/13/2026 16:16:04.779",
-        "Ad Group Default Bid": 0.27,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "411305806053343",
-        "Ad Group ID": "503495752594769",
-        "Ad Group Name": "Ad Group - 9/3/2025 14:26:21.413",
+        "Campaign ID": "36621576645362",
+        "Ad Group ID": "244979881015591",
+        "Ad Group Name": "mother day gifts for mom",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "259557427675425",
-        "Ad Group ID": "875342450706",
-        "Ad Group Name": "graduation gifts for him",
+        "Campaign ID": "176685470772947",
+        "Ad Group ID": "95835125543436",
+        "Ad Group Name": "mother day gifts for mom",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "212543536042799",
-        "Ad Group ID": "16242703624929",
-        "Ad Group Name": "mother day gifts",
-        "Ad Group Default Bid": 0.6,
+        "Campaign ID": "265362867300565",
+        "Ad Group ID": "169387361703994",
+        "Ad Group Name": "classroom management tools",
+        "Ad Group Default Bid": 0.55,
         "State": "enabled"
     },
     {
-        "Campaign ID": "264350077240086",
-        "Ad Group ID": "23675727288656",
-        "Ad Group Name": "mothers day gift",
-        "Ad Group Default Bid": 0.6,
+        "Campaign ID": "516525530117444",
+        "Ad Group ID": "306619012012102",
+        "Ad Group Name": "Ad Group - 11/27/2025 09:22:53.250",
+        "Ad Group Default Bid": 0.39,
         "State": "enabled"
     },
     {
-        "Campaign ID": "301676664330890",
-        "Ad Group ID": "361058494251845",
-        "Ad Group Name": "Ad Group - 11/11/2025 15:51:23.068",
+        "Campaign ID": "127331248015630",
+        "Ad Group ID": "349293955413881",
+        "Ad Group Name": "Ad Group - 3/19/2026 15:30:26.294",
         "Ad Group Default Bid": 0.32,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "208572027424644",
+        "Ad Group ID": "185548393190045",
+        "Ad Group Name": "mom birthday card",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "202769832549979",
+        "Ad Group ID": "144110970299778",
+        "Ad Group Name": "4th of july decorations",
+        "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
@@ -952,24 +1260,45 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "280407939132095",
-        "Ad Group ID": "244315430046510",
-        "Ad Group Name": "250 anniversary usa merchandise",
+        "Campaign ID": "49664673498216",
+        "Ad Group ID": "98785480095062",
+        "Ad Group Name": "250 anniversary coin",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "150758500758861",
-        "Ad Group ID": "114582220706801",
-        "Ad Group Name": "mom birthday gifts",
-        "Ad Group Default Bid": 0.6,
+        "Campaign ID": "66455004285817",
+        "Ad Group ID": "56769381389263",
+        "Ad Group Name": "badge reels retractable",
+        "Ad Group Default Bid": 0.4,
         "State": "enabled"
     },
     {
-        "Campaign ID": "32637122656205",
-        "Ad Group ID": "402528129245742",
-        "Ad Group Name": "Ad Group - 2/6/2026 11:02:05.054",
-        "Ad Group Default Bid": 0.18,
+        "Campaign ID": "114610802307111",
+        "Ad Group ID": "235137546635006",
+        "Ad Group Name": "Ad Group - 3/30/2026 08:51:06.894",
+        "Ad Group Default Bid": 0.29,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "55071861783464",
+        "Ad Group ID": "318501541328100",
+        "Ad Group Name": "Ad Group - 2/24/2026 14:21:28.973",
+        "Ad Group Default Bid": 0.23,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "191917591517380",
+        "Ad Group ID": "130341893743767",
+        "Ad Group Name": "Ad Group - 4/22/2026 16:22:54.792",
+        "Ad Group Default Bid": 0.75,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "75070435097016",
+        "Ad Group ID": "149401880344369",
+        "Ad Group Name": "birthday card for mom",
+        "Ad Group Default Bid": 0.5,
         "State": "enabled"
     },
     {
@@ -987,51 +1316,30 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "243547069932213",
-        "Ad Group ID": "476925121563952",
-        "Ad Group Name": "Ad Group - 3/19/2026 15:26:11.814",
-        "Ad Group Default Bid": 0.32,
+        "Campaign ID": "196887645434126",
+        "Ad Group ID": "232427071859564",
+        "Ad Group Name": "birthday gift for mom",
+        "Ad Group Default Bid": 0.5,
         "State": "enabled"
     },
     {
-        "Campaign ID": "414975158511121",
-        "Ad Group ID": "339032811355726",
-        "Ad Group Name": "Ad group - 9/25/2024 16:11:36.218.xm",
-        "Ad Group Default Bid": 0.1,
+        "Campaign ID": "212829568776390",
+        "Ad Group ID": "209468657558938",
+        "Ad Group Name": "classroom management tools",
+        "Ad Group Default Bid": 0.35,
         "State": "enabled"
     },
     {
-        "Campaign ID": "168002612135157",
-        "Ad Group ID": "428169227142802",
-        "Ad Group Name": "Ad Group - 3/20/2026 15:22:45.636",
-        "Ad Group Default Bid": 0.6,
+        "Campaign ID": "402965647100",
+        "Ad Group ID": "268140387554159",
+        "Ad Group Name": "Reward Jar",
+        "Ad Group Default Bid": 0.35,
         "State": "enabled"
     },
     {
-        "Campaign ID": "413373577406631",
-        "Ad Group ID": "370545068495427",
-        "Ad Group Name": "Ad Group - 6/2/2025 10:28:14.161",
-        "Ad Group Default Bid": 0.75,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "53407083624410",
-        "Ad Group ID": "430467139985229",
-        "Ad Group Name": "Ad Group - 3/19/2026 15:13:54.453",
-        "Ad Group Default Bid": 0.32,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "286936575624489",
-        "Ad Group ID": "304582830096153",
-        "Ad Group Name": "Ad Group - 8/18/2025 17:54:21.827",
-        "Ad Group Default Bid": 0.29,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "44735186053205",
-        "Ad Group ID": "200677904445818",
-        "Ad Group Name": "mother day gifts",
+        "Campaign ID": "486120490541051",
+        "Ad Group ID": "455262751713932",
+        "Ad Group Name": "Ad Group - 9/16/2025 11:16:00.873",
         "Ad Group Default Bid": 0.5,
         "State": "enabled"
     },
@@ -1043,24 +1351,45 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "104656532979802",
-        "Ad Group ID": "55809649661879",
-        "Ad Group Name": "mothers day gifts",
+        "Campaign ID": "481142619889748",
+        "Ad Group ID": "473922914911504",
+        "Ad Group Name": "Ad Group - 10/28/2025 11:42:07.960",
+        "Ad Group Default Bid": 0.28,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "411305806053343",
+        "Ad Group ID": "503495752594769",
+        "Ad Group Name": "Ad Group - 9/3/2025 14:26:21.413",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "219012865121436",
-        "Ad Group ID": "80927858585050",
-        "Ad Group Name": "patriotic decor",
+        "Campaign ID": "8925462985028",
+        "Ad Group ID": "165637962233437",
+        "Ad Group Name": "funny gift",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "279146662584846",
+        "Ad Group ID": "169716634467415",
+        "Ad Group Name": "gag gifts for men",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "42071715544025",
+        "Ad Group ID": "271712130184693",
+        "Ad Group Name": "2026 grad",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "252899371055573",
-        "Ad Group ID": "214217751140675",
-        "Ad Group Name": "magnetic reward jar for classroom",
-        "Ad Group Default Bid": 0.68,
+        "Campaign ID": "137441856422305",
+        "Ad Group ID": "9423925669942",
+        "Ad Group Name": "birthday gifts for mom",
+        "Ad Group Default Bid": 0.5,
         "State": "enabled"
     },
     {
@@ -1071,93 +1400,37 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "45111828306687",
-        "Ad Group ID": "27286270085783",
-        "Ad Group Name": "happy mothers day",
-        "Ad Group Default Bid": 0.6,
+        "Campaign ID": "412614022790323",
+        "Ad Group ID": "480895061265650",
+        "Ad Group Name": "Ad Group - 1/7/2026 16:32:16.594",
+        "Ad Group Default Bid": 0.67,
         "State": "enabled"
     },
     {
-        "Campaign ID": "31925631762051",
-        "Ad Group ID": "204301042325815",
-        "Ad Group Name": "gifts for mom",
-        "Ad Group Default Bid": 0.6,
+        "Campaign ID": "24755569654831",
+        "Ad Group ID": "233613077317496",
+        "Ad Group Name": "dad jokes",
+        "Ad Group Default Bid": 0.56,
         "State": "enabled"
     },
     {
-        "Campaign ID": "232502151361989",
-        "Ad Group ID": "161101677017057",
-        "Ad Group Name": "class reward jar magnetic",
-        "Ad Group Default Bid": 0.68,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "510517549937997",
-        "Ad Group ID": "554138445738935",
-        "Ad Group Name": "Ad Group - 6/2/2025 10:33:16.384",
+        "Campaign ID": "413373577406631",
+        "Ad Group ID": "370545068495427",
+        "Ad Group Name": "Ad Group - 6/2/2025 10:28:14.161",
         "Ad Group Default Bid": 0.75,
         "State": "enabled"
     },
     {
-        "Campaign ID": "465783455605624",
-        "Ad Group ID": "435995933227236",
-        "Ad Group Name": "Ad Group - 11/11/2025 16:19:51.015",
-        "Ad Group Default Bid": 0.4,
+        "Campaign ID": "123596856691296",
+        "Ad Group ID": "239779686649493",
+        "Ad Group Name": "mom birthday card",
+        "Ad Group Default Bid": 0.35,
         "State": "enabled"
     },
     {
-        "Campaign ID": "78594117483115",
-        "Ad Group ID": "147825428302813",
-        "Ad Group Name": "250th anniversary decorations",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "426196836350449",
-        "Ad Group ID": "335520291538264",
-        "Ad Group Name": "Ad Group - 6/2/2025 10:40:23.088",
-        "Ad Group Default Bid": 0.75,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "188624027844471",
-        "Ad Group ID": "7577342688587",
-        "Ad Group Name": "2026 graduation gifts",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "10882156590872",
-        "Ad Group ID": "39165645555522",
-        "Ad Group Name": "graduation gifts for him 2026",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "114610802307111",
-        "Ad Group ID": "235137546635006",
-        "Ad Group Name": "Ad Group - 3/30/2026 08:51:06.894",
-        "Ad Group Default Bid": 0.29,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "503632156047277",
-        "Ad Group ID": "555833845664860",
-        "Ad Group Name": "Ad Group - 8/25/2025 10:37:46.334",
-        "Ad Group Default Bid": 0.26,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "64760245594853",
-        "Ad Group ID": "137561390647583",
-        "Ad Group Name": "4th of july decorations",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "69630566489385",
-        "Ad Group ID": "189568643562630",
-        "Ad Group Name": "mother day gifts",
+        "Campaign ID": "182007216943421",
+        "Ad Group ID": "229788098263845",
+        "Ad Group Name": "250 anniversary coin",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
@@ -1165,335 +1438,27 @@
         "Campaign ID": "260010214291647",
         "Ad Group ID": "390336788239545",
         "Ad Group Name": "Ad Group - 3/6/2026 16:37:55.153",
-        "Ad Group Default Bid": 0.26,
+        "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "128020547477191",
-        "Ad Group ID": "217341380209529",
-        "Ad Group Name": "reward jars for kids",
-        "Ad Group Default Bid": 0.55,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "238006515348283",
-        "Ad Group ID": "492638630499179",
-        "Ad Group Name": "Ad Group - 3/19/2026 15:14:52.618",
+        "Campaign ID": "103537338147050",
+        "Ad Group ID": "257903364371962",
+        "Ad Group Name": "Ad Group - 4/6/2026 15:13:28.511",
         "Ad Group Default Bid": 0.32,
         "State": "enabled"
     },
     {
-        "Campaign ID": "502913432196455",
-        "Ad Group ID": "306192478766432",
-        "Ad Group Name": "Ad Group - 11/19/2025 22:53:41.324",
-        "Ad Group Default Bid": 0.4,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "171089859929151",
-        "Ad Group ID": "77550715926347",
-        "Ad Group Name": "mothers day gifts",
-        "Ad Group Default Bid": 0.5,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "11371065935631",
-        "Ad Group ID": "498714849759226",
-        "Ad Group Name": "Ad Group - 3/19/2026 15:17:24.681",
+        "Campaign ID": "11432869578404",
+        "Ad Group ID": "506496782646935",
+        "Ad Group Name": "Ad Group - 3/24/2026 14:32:27.967",
         "Ad Group Default Bid": 0.32,
         "State": "enabled"
     },
     {
-        "Campaign ID": "150428037306639",
-        "Ad Group ID": "218828006241455",
-        "Ad Group Name": "birthday gift for mom",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "126035806920560",
-        "Ad Group ID": "198259257209520",
-        "Ad Group Name": "gifts for mom",
-        "Ad Group Default Bid": 0.5,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "513745433748448",
-        "Ad Group ID": "305460167730573",
-        "Ad Group Name": "Ad Group - 4/5/2025 22:02:59.580",
-        "Ad Group Default Bid": 0.26,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "248163061594951",
-        "Ad Group ID": "129742462552611",
-        "Ad Group Name": "mom birthday gifts",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "115876092757289",
-        "Ad Group ID": "421967173859464",
-        "Ad Group Name": "Ad Group - 3/19/2026 15:23:44.669",
-        "Ad Group Default Bid": 0.32,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "80347856041133",
-        "Ad Group ID": "282561541136341",
-        "Ad Group Name": "Ad Group - 3/23/2026 15:21:44.564",
-        "Ad Group Default Bid": 0.31,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "118559336530402",
-        "Ad Group ID": "209110373266220",
-        "Ad Group Name": "mom birthday",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "273133767608036",
-        "Ad Group ID": "214735412633605",
-        "Ad Group Name": "mothers day",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "83519598913423",
-        "Ad Group ID": "178988162999915",
-        "Ad Group Name": "teaching supplies for the classroom",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "207214989853386",
-        "Ad Group ID": "133222424446060",
-        "Ad Group Name": "mothers day gift",
-        "Ad Group Default Bid": 0.5,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "203788641334310",
-        "Ad Group ID": "440392466536456",
-        "Ad Group Name": "Ad Group - 4/8/2026 15:25:26.916",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "185866355398325",
-        "Ad Group ID": "60018498813171",
-        "Ad Group Name": "mothers day",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "212829568776390",
-        "Ad Group ID": "209468657558938",
-        "Ad Group Name": "classroom management tools",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "258324197219064",
-        "Ad Group ID": "67414834168461",
-        "Ad Group Name": "magnetic behavior jar",
-        "Ad Group Default Bid": 0.68,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "244086185491062",
-        "Ad Group ID": "81452454274588",
-        "Ad Group Name": "mother day gifts",
-        "Ad Group Default Bid": 0.5,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "223296654255540",
-        "Ad Group ID": "12976676757942",
-        "Ad Group Name": "smiley face reward jar",
-        "Ad Group Default Bid": 0.68,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "184352073971278",
-        "Ad Group ID": "161341943439118",
-        "Ad Group Name": "mom birthday",
-        "Ad Group Default Bid": 0.5,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "242658366356209",
-        "Ad Group ID": "203143361271413",
-        "Ad Group Name": "mom birthday card",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "172781626914102",
-        "Ad Group ID": "67182077577080",
-        "Ad Group Name": "magnetic reward jar for boys",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "207752313700736",
-        "Ad Group ID": "489237480010210",
-        "Ad Group Name": "Ad Group - 3/24/2026 14:58:39.160",
-        "Ad Group Default Bid": 0.19,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "157835901268668",
-        "Ad Group ID": "11128800148407",
-        "Ad Group Name": "graduation gifts for him 2026",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "81512929887612",
-        "Ad Group ID": "206354328991077",
-        "Ad Group Name": "gifts for mom",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "87136340812820",
-        "Ad Group ID": "190769815140608",
-        "Ad Group Name": "behavior reward system for kids",
-        "Ad Group Default Bid": 0.68,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "430861698061109",
-        "Ad Group ID": "545941192411380",
-        "Ad Group Name": "Ad Group - 6/2/2025 10:37:05.932",
-        "Ad Group Default Bid": 0.75,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "259436952327743",
-        "Ad Group ID": "268677466000594",
-        "Ad Group Name": "gifts for mom",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "221560490104003",
-        "Ad Group ID": "81359589861668",
-        "Ad Group Name": "mom gifts",
-        "Ad Group Default Bid": 0.5,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "218741570828824",
-        "Ad Group ID": "326705127211924",
-        "Ad Group Name": "Ad Group - 3/20/2026 15:21:25.127",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "96852028930357",
-        "Ad Group ID": "113297145508021",
-        "Ad Group Name": "mother day gifts",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "22394337823930",
-        "Ad Group ID": "142393958204134",
-        "Ad Group Name": "mom gifts",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "136888169860183",
-        "Ad Group ID": "155907421642896",
-        "Ad Group Name": "mothers day gifts",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "169355392866917",
-        "Ad Group ID": "111695012586339",
-        "Ad Group Name": "gifts for mom birthday",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "187954958887254",
-        "Ad Group ID": "233926440377966",
-        "Ad Group Name": "mom gifts",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "165152700798123",
-        "Ad Group ID": "247833252075271",
-        "Ad Group Name": "mothers day gift",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "83868484177375",
-        "Ad Group ID": "140690453124959",
-        "Ad Group Name": "toddler reward jar",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "74925596312522",
-        "Ad Group ID": "18073565424434",
-        "Ad Group Name": "birthday gift for mom",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "39123125004677",
-        "Ad Group ID": "251253905226003",
-        "Ad Group Name": "mom gifts",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "108324069973667",
-        "Ad Group ID": "47933465145728",
-        "Ad Group Name": "kids reward chart",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "73750630913176",
-        "Ad Group ID": "18390880567303",
-        "Ad Group Name": "mothers day gifts",
-        "Ad Group Default Bid": 0.5,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "106124919858296",
-        "Ad Group ID": "259446318840521",
-        "Ad Group Name": "birthday card for mom",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "161975364546750",
-        "Ad Group ID": "155382579866473",
-        "Ad Group Name": "250 anniversary coin",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "128602433461424",
-        "Ad Group ID": "522973546067817",
-        "Ad Group Name": "Ad Group - 3/19/2026 15:29:33.786",
-        "Ad Group Default Bid": 0.56,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "202769832549979",
-        "Ad Group ID": "144110970299778",
-        "Ad Group Name": "4th of july decorations",
+        "Campaign ID": "232715145064173",
+        "Ad Group ID": "71923505782086",
+        "Ad Group Name": "mom to be gifts",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
@@ -1505,66 +1470,66 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "86253016176181",
-        "Ad Group ID": "174202112989337",
-        "Ad Group Name": "reward jar for kid",
+        "Campaign ID": "32637122656205",
+        "Ad Group ID": "402528129245742",
+        "Ad Group Name": "Ad Group - 2/6/2026 11:02:05.054",
+        "Ad Group Default Bid": 0.18,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "420654998896034",
+        "Ad Group ID": "353386388827111",
+        "Ad Group Name": "Ad Group - 1/9/2026 17:31:46.559",
+        "Ad Group Default Bid": 0.29,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "252290427256729",
+        "Ad Group ID": "419088878733907",
+        "Ad Group Name": "Ad Group - 3/20/2026 15:20:09.216",
+        "Ad Group Default Bid": 0.32,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "167411672855244",
+        "Ad Group ID": "530886237671100",
+        "Ad Group Name": "Ad Group - 3/20/2026 15:41:56.690",
+        "Ad Group Default Bid": 0.32,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "34411174922303",
+        "Ad Group ID": "216087075295233",
+        "Ad Group Name": "birthday gift for men",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "223296654255540",
+        "Ad Group ID": "12976676757942",
+        "Ad Group Name": "smiley face reward jar",
+        "Ad Group Default Bid": 0.68,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "83519598913423",
+        "Ad Group ID": "178988162999915",
+        "Ad Group Name": "teaching supplies for the classroom",
         "Ad Group Default Bid": 0.35,
         "State": "enabled"
     },
     {
-        "Campaign ID": "103047653687033",
-        "Ad Group ID": "257107076104274",
-        "Ad Group Name": "happy mothers day",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "24088030627974",
-        "Ad Group ID": "265103058454295",
-        "Ad Group Name": "mom birthday",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "46355832441402",
-        "Ad Group ID": "159061737680599",
-        "Ad Group Name": "birthday gifts for mom",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "24479692424512",
-        "Ad Group ID": "185850782189782",
-        "Ad Group Name": "birthday card for mom",
+        "Campaign ID": "164250644226863",
+        "Ad Group ID": "198310031867108",
+        "Ad Group Name": "mom gifts for birthday",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "49669290106525",
-        "Ad Group ID": "148377889499323",
-        "Ad Group Name": "mom gift",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "528345358468631",
-        "Ad Group ID": "364133764493060",
-        "Ad Group Name": "Ad Group - 6/2/2025 10:24:06.812",
-        "Ad Group Default Bid": 0.75,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "30248308800488",
-        "Ad Group ID": "173410594990381",
-        "Ad Group Name": "happy mothers day",
-        "Ad Group Default Bid": 0.5,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "529615815071509",
-        "Ad Group ID": "470935147671726",
-        "Ad Group Name": "Ad Group - 6/3/2025 15:34:21.472",
-        "Ad Group Default Bid": 0.75,
+        "Campaign ID": "414975158511121",
+        "Ad Group ID": "339032811355726",
+        "Ad Group Name": "Ad group - 9/25/2024 16:11:36.218.xm",
+        "Ad Group Default Bid": 0.1,
         "State": "enabled"
     },
     {
@@ -1575,24 +1540,241 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "104339416425082",
-        "Ad Group ID": "150295730882312",
-        "Ad Group Name": "birthday gifts for mom",
-        "Ad Group Default Bid": 0.5,
+        "Campaign ID": "286936575624489",
+        "Ad Group ID": "304582830096153",
+        "Ad Group Name": "Ad Group - 8/18/2025 17:54:21.827",
+        "Ad Group Default Bid": 0.29,
         "State": "enabled"
     },
     {
-        "Campaign ID": "114167925911652",
-        "Ad Group ID": "155441438870328",
-        "Ad Group Name": "gifts for mom birthday",
+        "Campaign ID": "161975364546750",
+        "Ad Group ID": "155382579866473",
+        "Ad Group Name": "250 anniversary coin",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "145189103277605",
+        "Ad Group ID": "25445568258656",
+        "Ad Group Name": "fourth of july decorations",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "502913432196455",
+        "Ad Group ID": "306192478766432",
+        "Ad Group Name": "Ad Group - 11/19/2025 22:53:41.324",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "269797487167492",
+        "Ad Group ID": "266856568363064",
+        "Ad Group Name": "diy love notes",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "426196836350449",
+        "Ad Group ID": "335520291538264",
+        "Ad Group Name": "Ad Group - 6/2/2025 10:40:23.088",
+        "Ad Group Default Bid": 0.75,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "252899371055573",
+        "Ad Group ID": "214217751140675",
+        "Ad Group Name": "magnetic reward jar for classroom",
+        "Ad Group Default Bid": 0.68,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "465783455605624",
+        "Ad Group ID": "435995933227236",
+        "Ad Group Name": "Ad Group - 11/11/2025 16:19:51.015",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "513745433748448",
+        "Ad Group ID": "305460167730573",
+        "Ad Group Name": "Ad Group - 4/5/2025 22:02:59.580",
+        "Ad Group Default Bid": 0.26,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "301676664330890",
+        "Ad Group ID": "361058494251845",
+        "Ad Group Name": "Ad Group - 11/11/2025 15:51:23.068",
+        "Ad Group Default Bid": 0.32,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "510517549937997",
+        "Ad Group ID": "554138445738935",
+        "Ad Group Name": "Ad Group - 6/2/2025 10:33:16.384",
+        "Ad Group Default Bid": 0.75,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "75192234065146",
+        "Ad Group ID": "214563225919105",
+        "Ad Group Name": "mother day gifts for mom",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "263540890683711",
+        "Ad Group ID": "171873548952605",
+        "Ad Group Name": "mom gifts for birthday",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "24616334343165",
+        "Ad Group ID": "98087894699264",
+        "Ad Group Name": "fourth of july decorations",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "242658366356209",
+        "Ad Group ID": "203143361271413",
+        "Ad Group Name": "mom birthday card",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "83868484177375",
+        "Ad Group ID": "140690453124959",
+        "Ad Group Name": "toddler reward jar",
         "Ad Group Default Bid": 0.35,
         "State": "enabled"
     },
     {
-        "Campaign ID": "227571001466564",
-        "Ad Group ID": "206221524584150",
-        "Ad Group Name": "mom birthday",
+        "Campaign ID": "246289935720420",
+        "Ad Group ID": "183100485891693",
+        "Ad Group Name": "lpn badge reel",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "254946396085542",
+        "Ad Group ID": "48319477659773",
+        "Ad Group Name": "funny gifts for men",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "270602081124957",
+        "Ad Group ID": "272117366256757",
+        "Ad Group Name": "reward jar kid",
+        "Ad Group Default Bid": 0.55,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "167837348389007",
+        "Ad Group ID": "30900199340058",
+        "Ad Group Name": "cute badge reel",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "119371140329862",
+        "Ad Group ID": "136428049810871",
+        "Ad Group Name": "badge reel cute",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "145808222535333",
+        "Ad Group ID": "12785737756224",
+        "Ad Group Name": "smiley face reward jar",
+        "Ad Group Default Bid": 0.55,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "244818791797353",
+        "Ad Group ID": "44263757764850",
+        "Ad Group Name": "birthday card for mom",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "278267314150783",
+        "Ad Group ID": "268467446834672",
+        "Ad Group Name": "reward jar for kid",
+        "Ad Group Default Bid": 0.55,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "201303735242411",
+        "Ad Group ID": "55321031723462",
+        "Ad Group Name": "mothers day",
         "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "139790639882326",
+        "Ad Group ID": "48207092313073",
+        "Ad Group Name": "fathers day gifts",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "50173629004788",
+        "Ad Group ID": "40713349369959",
+        "Ad Group Name": "toddler reward jar",
+        "Ad Group Default Bid": 0.55,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "152068553105752",
+        "Ad Group ID": "111452649090178",
+        "Ad Group Name": "cna badge accessories",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "104432001448095",
+        "Ad Group ID": "259026214462973",
+        "Ad Group Name": "diy gifts for mom",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "2462304319899",
+        "Ad Group ID": "299329265709116",
+        "Ad Group Name": "Ad Group - 3/20/2026 15:18:00.171",
+        "Ad Group Default Bid": 0.32,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "232502151361989",
+        "Ad Group ID": "161101677017057",
+        "Ad Group Name": "class reward jar magnetic",
+        "Ad Group Default Bid": 0.68,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "258836221570742",
+        "Ad Group ID": "256008042427916",
+        "Ad Group Name": "dads birthday",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "280774086801731",
+        "Ad Group ID": "5425004728581",
+        "Ad Group Name": "diy love notes",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "128020547477191",
+        "Ad Group ID": "217341380209529",
+        "Ad Group Name": "reward jars for kids",
+        "Ad Group Default Bid": 0.55,
         "State": "enabled"
     },
     {
@@ -1603,38 +1785,24 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "99894565783714",
-        "Ad Group ID": "2985662563937",
-        "Ad Group Name": "mom gifts",
+        "Campaign ID": "258324197219064",
+        "Ad Group ID": "67414834168461",
+        "Ad Group Name": "magnetic behavior jar",
+        "Ad Group Default Bid": 0.68,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "209079139808746",
+        "Ad Group ID": "188747960253607",
+        "Ad Group Name": "mom to be gifts",
         "Ad Group Default Bid": 0.6,
         "State": "enabled"
     },
     {
-        "Campaign ID": "110464509812328",
-        "Ad Group ID": "226512857036757",
-        "Ad Group Name": "mothers day gifts for mom",
-        "Ad Group Default Bid": 0.5,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "134954038584301",
-        "Ad Group ID": "279642856803536",
-        "Ad Group Name": "mom gift",
-        "Ad Group Default Bid": 0.5,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "105486530026316",
-        "Ad Group ID": "32634263710880",
-        "Ad Group Name": "mothers day gift",
-        "Ad Group Default Bid": 0.5,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "549525391083868",
-        "Ad Group ID": "328607275999828",
-        "Ad Group Name": "Ad group 1",
-        "Ad Group Default Bid": 0.75,
+        "Campaign ID": "275451635028437",
+        "Ad Group ID": "93292455174596",
+        "Ad Group Name": "birthday card for mom",
+        "Ad Group Default Bid": 0.35,
         "State": "enabled"
     },
     {
@@ -1645,31 +1813,402 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "77505992196807",
-        "Ad Group ID": "4898405754190",
-        "Ad Group Name": "birthday card for mom",
-        "Ad Group Default Bid": 0.5,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "91049621021462",
-        "Ad Group ID": "62977437668373",
-        "Ad Group Name": "happy mothers day",
-        "Ad Group Default Bid": 0.5,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "135779770621582",
-        "Ad Group ID": "266572606695161",
-        "Ad Group Name": "mothers day gift",
+        "Campaign ID": "203788641334310",
+        "Ad Group ID": "440392466536456",
+        "Ad Group Name": "Ad Group - 4/8/2026 15:25:26.916",
         "Ad Group Default Bid": 0.35,
         "State": "enabled"
     },
     {
-        "Campaign ID": "270002149885687",
-        "Ad Group ID": "68544659244760",
-        "Ad Group Name": "mom birthday",
+        "Campaign ID": "528345358468631",
+        "Ad Group ID": "364133764493060",
+        "Ad Group Name": "Ad Group - 6/2/2025 10:24:06.812",
+        "Ad Group Default Bid": 0.75,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "108324069973667",
+        "Ad Group ID": "47933465145728",
+        "Ad Group Name": "kids reward chart",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "221415690565307",
+        "Ad Group ID": "246373780849071",
+        "Ad Group Name": "gag gifts for men",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "274805895989851",
+        "Ad Group ID": "294681714645506",
+        "Ad Group Name": "Ad Group - 3/18/2026 17:01:09.716",
+        "Ad Group Default Bid": 0.27,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "160027053899179",
+        "Ad Group ID": "214847202923322",
+        "Ad Group Name": "birthday card for dad",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "190904933777298",
+        "Ad Group ID": "93402136516779",
+        "Ad Group Name": "birthday dad",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "212512217926004",
+        "Ad Group ID": "107046199259101",
+        "Ad Group Name": "dad hat",
+        "Ad Group Default Bid": 0.3,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "142243634792721",
+        "Ad Group ID": "262848449324168",
+        "Ad Group Name": "diy gifts for mom",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "98716290893628",
+        "Ad Group ID": "240295799600565",
+        "Ad Group Name": "gifts for dads",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "172781626914102",
+        "Ad Group ID": "67182077577080",
+        "Ad Group Name": "magnetic reward jar for boys",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "115876092757289",
+        "Ad Group ID": "421967173859464",
+        "Ad Group Name": "Ad Group - 3/19/2026 15:23:44.669",
+        "Ad Group Default Bid": 0.32,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "30982878856124",
+        "Ad Group ID": "351725068066254",
+        "Ad Group Name": "Ad Group - 3/9/2026 17:59:46.471",
+        "Ad Group Default Bid": 0.31,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "54541550871056",
+        "Ad Group ID": "166038360610304",
+        "Ad Group Name": "funny birthday card for dad",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "49647371641080",
+        "Ad Group ID": "144369557153530",
+        "Ad Group Name": "dad birthday",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "209655429260857",
+        "Ad Group ID": "50701762845780",
+        "Ad Group Name": "reward jar classroom",
+        "Ad Group Default Bid": 0.55,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "87514768790485",
+        "Ad Group ID": "179437397013935",
+        "Ad Group Name": "father day gifts",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "243547069932213",
+        "Ad Group ID": "476925121563952",
+        "Ad Group Name": "Ad Group - 3/19/2026 15:26:11.814",
+        "Ad Group Default Bid": 0.32,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "80672044143692",
+        "Ad Group ID": "41266857416355",
+        "Ad Group Name": "fathers day gifts",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "238006515348283",
+        "Ad Group ID": "492638630499179",
+        "Ad Group Name": "Ad Group - 3/19/2026 15:14:52.618",
+        "Ad Group Default Bid": 0.32,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "102507945283298",
+        "Ad Group ID": "186516503962366",
+        "Ad Group Name": "dad birthday gift",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "11371065935631",
+        "Ad Group ID": "498714849759226",
+        "Ad Group Name": "Ad Group - 3/19/2026 15:17:24.681",
+        "Ad Group Default Bid": 0.32,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "311697545905095",
+        "Ad Group ID": "301028471964807",
+        "Ad Group Name": "Ad Group - 6/2/2025 10:39:00.127",
+        "Ad Group Default Bid": 0.75,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "145378816313322",
+        "Ad Group ID": "253028459223376",
+        "Ad Group Name": "mom birthday card",
         "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "4783720740971",
+        "Ad Group ID": "530003647618950",
+        "Ad Group Name": "Ad Group - 3/19/2026 15:12:42.679",
+        "Ad Group Default Bid": 0.32,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "87136340812820",
+        "Ad Group ID": "190769815140608",
+        "Ad Group Name": "behavior reward system for kids",
+        "Ad Group Default Bid": 0.68,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "222229496839515",
+        "Ad Group ID": "77782920192164",
+        "Ad Group Name": "dad birthday",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "225822877728175",
+        "Ad Group ID": "244835511376716",
+        "Ad Group Name": "dad birthday gifts",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "202741325674963",
+        "Ad Group ID": "273773193962144",
+        "Ad Group Name": "mom birthday card",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "264130472233597",
+        "Ad Group ID": "248839251760524",
+        "Ad Group Name": "dad gifts",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "107665155949722",
+        "Ad Group ID": "168889096030045",
+        "Ad Group Name": "fathers day gifts for dad",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "257224204197426",
+        "Ad Group ID": "96874251036811",
+        "Ad Group Name": "mom birthday card",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "214302949974207",
+        "Ad Group ID": "180583567735664",
+        "Ad Group Name": "mothers day gifts for mom",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "217199664808769",
+        "Ad Group ID": "127437218566219",
+        "Ad Group Name": "gifts for mom",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "178146371890861",
+        "Ad Group ID": "56158444194444",
+        "Ad Group Name": "birthday dad",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "195785205189698",
+        "Ad Group ID": "201267172605106",
+        "Ad Group Name": "mom to be gifts",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "57015726906321",
+        "Ad Group ID": "218658882628116",
+        "Ad Group Name": "class of 2026 gifts",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "101105996001484",
+        "Ad Group ID": "87414105608600",
+        "Ad Group Name": "birthday gift for men",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "170739394641644",
+        "Ad Group ID": "81350569902191",
+        "Ad Group Name": "dad gift",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "86253016176181",
+        "Ad Group ID": "174202112989337",
+        "Ad Group Name": "reward jar for kid",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "274775920588438",
+        "Ad Group ID": "226857156061524",
+        "Ad Group Name": "dads birthday",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "168002612135157",
+        "Ad Group ID": "428169227142802",
+        "Ad Group Name": "Ad Group - 3/20/2026 15:22:45.636",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "11446755364596",
+        "Ad Group ID": "128344210925478",
+        "Ad Group Name": "fathers birthday gifts",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "172881472188134",
+        "Ad Group ID": "480231972893206",
+        "Ad Group Name": "Ad Group - 3/6/2026 15:18:54.923",
+        "Ad Group Default Bid": 0.32,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "31430191849927",
+        "Ad Group ID": "280938959996972",
+        "Ad Group Name": "dad hat",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "247997336846037",
+        "Ad Group ID": "205648013953072",
+        "Ad Group Name": "father day gifts",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "30176645992399",
+        "Ad Group ID": "200633039726911",
+        "Ad Group Name": "cna badge accessories",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "137119268494068",
+        "Ad Group ID": "216340001839706",
+        "Ad Group Name": "birthday gift for dad",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "201790484862607",
+        "Ad Group ID": "68382715916895",
+        "Ad Group Name": "dad baseball cap gift",
+        "Ad Group Default Bid": 0.3,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "126888256584274",
+        "Ad Group ID": "33507411570500",
+        "Ad Group Name": "mom gifts for birthday",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "39877878420157",
+        "Ad Group ID": "41808385270418",
+        "Ad Group Name": "gift for dad hat",
+        "Ad Group Default Bid": 0.3,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "53407083624410",
+        "Ad Group ID": "430467139985229",
+        "Ad Group Name": "Ad Group - 3/19/2026 15:13:54.453",
+        "Ad Group Default Bid": 0.32,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "102327496681781",
+        "Ad Group ID": "20589110233612",
+        "Ad Group Name": "lpn badge reel",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "52962694873498",
+        "Ad Group ID": "106160414997673",
+        "Ad Group Name": "behavior reward system for kids",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "209787570063420",
+        "Ad Group ID": "22944172112269",
+        "Ad Group Name": "presents for dad",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "430861698061109",
+        "Ad Group ID": "545941192411380",
+        "Ad Group Name": "Ad Group - 6/2/2025 10:37:05.932",
+        "Ad Group Default Bid": 0.75,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "79162814715277",
+        "Ad Group ID": "71025196760911",
+        "Ad Group Name": "funny dad gifts",
+        "Ad Group Default Bid": 0.56,
         "State": "enabled"
     },
     {
@@ -1680,23 +2219,9 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "182007216943421",
-        "Ad Group ID": "229788098263845",
-        "Ad Group Name": "250 anniversary coin",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "116675716933174",
-        "Ad Group ID": "91620885850927",
-        "Ad Group Name": "mom gift",
-        "Ad Group Default Bid": 0.35,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "9909798075477",
-        "Ad Group ID": "131568824368811",
-        "Ad Group Name": "mom birthday gifts",
+        "Campaign ID": "55419097743303",
+        "Ad Group ID": "116173584887688",
+        "Ad Group Name": "mothers day gifts for mom",
         "Ad Group Default Bid": 0.5,
         "State": "enabled"
     },
@@ -1708,38 +2233,248 @@
         "State": "enabled"
     },
     {
-        "Campaign ID": "270602081124957",
-        "Ad Group ID": "272117366256757",
-        "Ad Group Name": "reward jar kid",
-        "Ad Group Default Bid": 0.55,
+        "Campaign ID": "44735186053205",
+        "Ad Group ID": "200677904445818",
+        "Ad Group Name": "mother day gifts",
+        "Ad Group Default Bid": 0.5,
         "State": "enabled"
     },
     {
-        "Campaign ID": "423498000034702",
-        "Ad Group ID": "488670489611891",
-        "Ad Group Name": "Ad Group - 11/27/2025 09:41:55.285",
-        "Ad Group Default Bid": 0.39,
+        "Campaign ID": "529615815071509",
+        "Ad Group ID": "470935147671726",
+        "Ad Group Name": "Ad Group - 6/3/2025 15:34:21.472",
+        "Ad Group Default Bid": 0.75,
         "State": "enabled"
     },
     {
-        "Campaign ID": "137271834109136",
-        "Ad Group ID": "149191172164277",
-        "Ad Group Name": "birthday gifts for mom",
-        "Ad Group Default Bid": 0.6,
-        "State": "enabled"
-    },
-    {
-        "Campaign ID": "208572027424644",
-        "Ad Group ID": "185548393190045",
-        "Ad Group Name": "mom birthday card",
+        "Campaign ID": "94880845146800",
+        "Ad Group ID": "93659695966865",
+        "Ad Group Name": "reward jar classroom",
         "Ad Group Default Bid": 0.35,
         "State": "enabled"
     },
     {
-        "Campaign ID": "68702797039409",
-        "Ad Group ID": "138755649849433",
-        "Ad Group Name": "happy mothers day",
+        "Campaign ID": "169355392866917",
+        "Ad Group ID": "111695012586339",
+        "Ad Group Name": "gifts for mom birthday",
+        "Ad Group Default Bid": 0.35,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "252501435315214",
+        "Ad Group ID": "159397840696543",
+        "Ad Group Name": "birthday gift for dad",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "25714628185123",
+        "Ad Group ID": "8737307269678",
+        "Ad Group Name": "father gifts",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "207752313700736",
+        "Ad Group ID": "489237480010210",
+        "Ad Group Name": "Ad Group - 3/24/2026 14:58:39.160",
+        "Ad Group Default Bid": 0.19,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "7285956379864",
+        "Ad Group ID": "43318698072897",
+        "Ad Group Name": "gifts for dads",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "38294414860183",
+        "Ad Group ID": "1747394975135",
+        "Ad Group Name": "fathers day hat for men",
+        "Ad Group Default Bid": 0.7,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "116665243606100",
+        "Ad Group ID": "37008225912675",
+        "Ad Group Name": "gift for dad",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "229741748376229",
+        "Ad Group ID": "42749016176408",
+        "Ad Group Name": "mother day gifts for mom",
         "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "102993984405636",
+        "Ad Group ID": "16478987344507",
+        "Ad Group Name": "birthday for dad",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "221560490104003",
+        "Ad Group ID": "81359589861668",
+        "Ad Group Name": "mom gifts",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "39676422232135",
+        "Ad Group ID": "113841108836967",
+        "Ad Group Name": "funny gifts for men",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "166987040640893",
+        "Ad Group ID": "193197915939780",
+        "Ad Group Name": "dad trucker hat",
+        "Ad Group Default Bid": 0.3,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "225860455779846",
+        "Ad Group ID": "258012116308551",
+        "Ad Group Name": "father daughter gifts",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "42382536893418",
+        "Ad Group ID": "231347551091934",
+        "Ad Group Name": "dad stuff",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "149946239962630",
+        "Ad Group ID": "113151891301316",
+        "Ad Group Name": "dad gifts for birthday",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "221272044609234",
+        "Ad Group ID": "209615592048730",
+        "Ad Group Name": "birthday card for dad",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "261656428888843",
+        "Ad Group ID": "203533500157767",
+        "Ad Group Name": "office gifts for men",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "230109673264019",
+        "Ad Group ID": "159778086239002",
+        "Ad Group Name": "mens dad hat premium",
+        "Ad Group Default Bid": 0.3,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "158981776761234",
+        "Ad Group ID": "160301580211166",
+        "Ad Group Name": "mom gifts for birthday",
+        "Ad Group Default Bid": 0.5,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "231206012095266",
+        "Ad Group ID": "168962491235956",
+        "Ad Group Name": "gifts for dad birthday",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "73414426657114",
+        "Ad Group ID": "130020915842725",
+        "Ad Group Name": "diy gifts for mom",
+        "Ad Group Default Bid": 0.6,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "217964278375652",
+        "Ad Group ID": "267299922074263",
+        "Ad Group Name": "father gifts",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "158678409566551",
+        "Ad Group ID": "262342764166184",
+        "Ad Group Name": "magnetic reward jar for classroom",
+        "Ad Group Default Bid": 0.55,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "55279750919386",
+        "Ad Group ID": "233986018524340",
+        "Ad Group Name": "behavior reward system for kids",
+        "Ad Group Default Bid": 0.55,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "77639368313363",
+        "Ad Group ID": "172548025525372",
+        "Ad Group Name": "dad gifts",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "23184025288490",
+        "Ad Group ID": "178719905125965",
+        "Ad Group Name": "black trucker hat",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "126830376627308",
+        "Ad Group ID": "34990966699658",
+        "Ad Group Name": "birthday gift for dad from daughter",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "94876062132176",
+        "Ad Group ID": "10032140783473",
+        "Ad Group Name": "fathers day gift",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "188628891113500",
+        "Ad Group ID": "203970291637451",
+        "Ad Group Name": "fathers day gifts for dad",
+        "Ad Group Default Bid": 0.4,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "130910507528067",
+        "Ad Group ID": "255670006702649",
+        "Ad Group Name": "magnetic behavior jar",
+        "Ad Group Default Bid": 0.55,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "129260745928977",
+        "Ad Group ID": "139393731729460",
+        "Ad Group Name": "birthday gifts for dad",
+        "Ad Group Default Bid": 0.56,
+        "State": "enabled"
+    },
+    {
+        "Campaign ID": "219860327056289",
+        "Ad Group ID": "235641906108577",
+        "Ad Group Name": "birthday for dad",
+        "Ad Group Default Bid": 0.4,
         "State": "enabled"
     }
 ]

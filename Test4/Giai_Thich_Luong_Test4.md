@@ -32,5 +32,11 @@ Hãy tưởng tượng bạn đang vận hành một cỗ máy tự động hóa
 
 ### 🏭 Phase 5: "Thư ký chốt sổ" (Khu đóng gói gửi Amazon)
 *   **Máy làm gì:** Khi bạn đã duyệt xong Excel, Thư ký sẽ gộp 98% quyết định tự động của Máy (Auto) và 2% quyết định của Bạn (từ file Excel) thành một khối.
-*   **Cắt gọt:** Nó vứt hết các cột báo cáo nháp, chỉ giữ lại đúng 8 cột bắt buộc của Amazon, tạo ra file `Amazon_Upload_Ready.xlsx`.
-*   **Hoàn thành:** Bạn chỉ việc cầm file này upload ngược lên Seller Central là xong công việc một ngày!
+*   **Cắt gọt:** Nó vứt hết các cột báo cáo nháp, chỉ giữ lại đúng 8 cột bắt buộc của Amazon (hoặc đầy đủ 30 cột tùy cấu hình), tạo ra file `Amazon_Upload_Ready.xlsx`.
+
+### 🏭 Phase 6: "Hải quan kiểm duyệt" (Khu xác thực ID & Format)
+*   **Thực trạng:** Bạn lo lắng nếu file Phase 5 bị nhầm lẫn ID thì khi upload lên Amazon sẽ gây lỗi hàng loạt.
+*   **Máy làm gì:** Đây là chốt chặn cuối cùng. Nó cầm file của Phase 5 đối chiếu ngược lại với dữ liệu gốc ban đầu ở Phase Bổ Sung.
+    *   Nếu phát hiện một dòng bị sai ID hoặc sai định dạng, nó sẽ **đá văng** dòng đó ra một file lỗi riêng (`Validation_Errors.xlsx`) để bạn sửa tay.
+    *   Chỉ những dòng hoàn toàn sạch sẽ và chính xác mới được đưa vào file `Amazon_Upload_Verified.xlsx`.
+*   **Hoàn thành:** Bạn chỉ việc cầm file đã qua kiểm duyệt ở Phase 6 này upload lên Seller Central là yên tâm 100%!
