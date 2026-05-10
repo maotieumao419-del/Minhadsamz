@@ -80,11 +80,18 @@ def parse_bulk_filename(filename):
 
 if __name__ == "__main__":
     import glob
+    import shutil
+    import json
     
     BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     INPUT_DIR = os.path.join(BASE_DIR, "input")
     
-    print("--- KIEM TRA PHAN TICH TEN FILE TRONG INPUT ---")
+    # Thư mục đích ở phase0
+    PHASE0_DIR = os.path.join(os.path.dirname(BASE_DIR), "phase0")
+    PHASE0_INPUT_DIR = os.path.join(PHASE0_DIR, "input")
+    os.makedirs(PHASE0_INPUT_DIR, exist_ok=True)
+    
+    print("--- CHUAN BI CHUYEN TIEP DATA SANG PHASE 0 ---")
     
     input_files = glob.glob(os.path.join(INPUT_DIR, "*.xlsx"))
     if not input_files:
@@ -92,8 +99,16 @@ if __name__ == "__main__":
     else:
         for f in input_files:
             res = parse_bulk_filename(f)
-            print(f"\nFile: {res['filename']}")
-            print(f"Tu ngay: {res['start_date']}")
-            print(f"Den ngay: {res['end_date']}")
+            print(f"\nPhan tich file: {res['filename']}")
             print(f"Khoang thoi gian: {res['days_duration']} ngay")
-            print(f"Ghi chu: {res['note']}")
+            
+            # Copy file sang phase0 input
+            dest_file = os.path.join(PHASE0_INPUT_DIR, res['filename'])
+            shutil.copy2(f, dest_file)
+            print(f"Da copy sang: {dest_file}")
+            
+            # Luu metadata json
+            meta_file = os.path.join(PHASE0_INPUT_DIR, "phase0_input_meta.json")
+            with open(meta_file, "w", encoding="utf-8") as json_file:
+                json.dump(res, json_file, indent=4)
+            print(f"Da luu metadata sang: {meta_file}")
